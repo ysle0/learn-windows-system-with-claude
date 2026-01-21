@@ -1,10 +1,18 @@
 # 윈도우즈 시스템 프로그래밍 학습 로드맵
 
+## 0. Windows 버전 히스토리 ✅
+📄 [docs/00_windows_history.md](docs/00_windows_history.md)
+
+시스템 프로그래밍 관점에서 본 Windows 버전별 핵심 변화
+
+---
+
 ## 프로젝트 구조
 
 ```
 learn-windows-system-with-claude/
 ├── docs/                    # 챕터별 개념 정리 문서
+│   ├── 00_windows_history.md
 │   ├── 01_basics.md
 │   ├── 02_process_thread.md
 │   ├── 03_memory.md
